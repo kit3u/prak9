@@ -1,0 +1,15 @@
+body {
+    font-family: 'Figtree', sans-serif;
+    background-color: hsl(40, 98%, 82%);
+    margin: 0;
+    padding: 0;
+}
+
+main {
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    padding: 1rem;
+}
